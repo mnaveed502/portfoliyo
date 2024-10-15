@@ -1,0 +1,62 @@
+header{
+    width:100%;
+    border:1px solid red;
+    background-color: antiquewhite;
+    text-align: center;
+    text-decoration: none;
+    text-transform:uppercase;
+    border-radius: 20px;
+
+}
+.about-me{
+    width:100%;
+    border:1px solid red;
+    background-color: antiquewhite;
+    text-align: center;
+    text-decoration: none;
+    text-transform:capitalize;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.field{
+  border:1px solid red;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  align-content: center;
+  margin-top: 10px;
+}
+.projects{
+  border:1px solid red;
+  border-radius:20px;
+  background-color: antiquewhite;
+  margin-top:10px;
+  display:flex;
+  justify-content: space-evenly;
+}
+.projects{
+  padding: 10px;
+
+}
+
+form{
+  padding: 5px;
+}
+.button{
+  text-align: center;
+  color:antiquewhite;
+  align-self: center;
+}
+footer{
+  width:100%;
+    border:1px solid red;
+    margin-top: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+    text-decoration: none;
+    text-transform:uppercase;
+    border-radius: 20px;
+    
+}
+.link{
+  text-decoration: none;
+}
